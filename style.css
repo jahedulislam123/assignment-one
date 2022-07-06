@@ -66,3 +66,24 @@
     align-items: center;
 
 }
+
+.donate-plan {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.donate-plannig {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.help {
+    display: flex;
+    flex-direction: row;
+
+
+}
