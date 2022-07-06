@@ -97,3 +97,31 @@
     box-shadow: 10px 10px 30px gray;
 
 }
+
+.update {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.update-two {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.button {
+    background-color: rgb(123, 123, 115);
+    padding-top: 20px;
+    padding-right: 2px;
+    padding-bottom: 20px;
+    padding-left: 2px;
+
+}
+
+footer p {
+    text-align: center;
+}
