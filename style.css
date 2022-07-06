@@ -1,0 +1,38 @@
+.background-image {
+    background-image: url(images/donation13.jpg);
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.text-center {
+    width: 100%;
+    height: 100%;
+    font-size: 26px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.donate-today {
+    width: 100%;
+    height: 100%;
+    font-size: 26px;
+    color: black;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.taka {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
