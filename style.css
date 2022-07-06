@@ -36,5 +36,33 @@
     justify-content: center;
     align-items: center;
 
+}
+
+.under-line {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(132, 136, 136);
+
+}
+
+.divider {
+    width: 300px;
+    height: 5px;
+    background-color: seagreen;
+    display: inline-block;
+
+}
+
+.donate-now {
+    text-decoration: none;
+    margin: 45%;
+    border: 2px solid;
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-weight: 700;
+    justify-content: center;
+    align-items: center;
 
 }
